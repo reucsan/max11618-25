@@ -1,2 +1,2 @@
 
-#include "max116xx.h"
+#include "max11618-25.h"
